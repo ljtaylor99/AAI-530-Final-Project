@@ -8,6 +8,9 @@ Information contained in the data set is as follows:
 - **Lon:** The longitude of the pickup location.
 - **Base:** The associated TLC base company code of the pickup.
 
+### **AAI 530 Final Project EDA.ipynb**
+File contains EDA on one month worth of pickups
+
 ### **AAI530_Final.ipynb**
 File contains preliminary EDA and the code for K-means CLustering and LSTM 
 
